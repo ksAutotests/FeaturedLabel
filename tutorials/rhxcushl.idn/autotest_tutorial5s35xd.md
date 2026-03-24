@@ -19,7 +19,7 @@ autotest tutorial textp7Pd8J
 - Prerequisute3
 
 [ACCORDION-BEGIN [](First step)]
-![image](https://octodex.github.com/images/yaktocat.png)
+![image](https://octodex.github.com/images/gracehoppertocat.jpg)
 [DONE]
 [ACCORDION-END]
 
